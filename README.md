@@ -1,4 +1,4 @@
-### Hello there, welcome to my GitHub profile 👋
+### Hello there, welcome to my GitHub profile<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Benno and I am a self-thaugh Software Engineer from Germany
 
