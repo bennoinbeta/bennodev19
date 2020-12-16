@@ -1,4 +1,4 @@
-<img src="./static/images/HeaderBackground.svg">
+<img src="./static/images/HeaderBackground.png">
 
   <p align="left">
     <a href="https://discord.gg/9Edsb3z"><img src="https://img.shields.io/discord/637567797446180874.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Join Discord"></a>
