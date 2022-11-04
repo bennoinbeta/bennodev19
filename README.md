@@ -1,6 +1,8 @@
-<img width="100%" src="./static/images/forest.jpg">
+<img width="100%" src="./static/images/Github-Frame.png">
 
-🌳 Where will the journey go?
+🌳 | Where will the journey go? </br>
+🌱 | Prioritize learning over earning </br>
+🧠 | My opinion is not advice </br>
 
   <p align="left">
 	<a href="https://twitter.com/DevBenno"><img src="https://img.shields.io/twitter/follow/DevBenno.svg?label=BennoDev" alt="Follow me on Twitter"></a>
